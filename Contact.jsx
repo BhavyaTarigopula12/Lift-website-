@@ -18,9 +18,7 @@ function Contact() {
                     <div className="grid md:grid-cols-2">
                         <div className="h-full pr-6">
                             <p className="mt-3 mb-12 text-lg text-gray-300">
-                                Class aptent taciti sociosqu ad
-                                litora torquent per conubia nostra, per inceptos himenaeos. Duis nec ipsum orci. Ut scelerisque
-                                sagittis ante, ac tincidunt sem venenatis ut.
+                                We’d love to hear from you! Whether you have a question, need support, or want to explore our elevator solutions, we’re just a message away. Get in touch with us today—we’re here to help, every step of the way.
                             </p>
                             <ul className="mb-6 md:mb-0">
                                 <li className="flex">
@@ -37,8 +35,8 @@ function Contact() {
                                     <div className="ml-4 mb-4">
                                         <h3 className="mb-2 text-lg font-medium leading-6 text-white">Our Address
                                         </h3>
-                                        <p className="text-gray-300">1230 Maecenas Street Donec Road</p>
-                                        <p className="text-gray-300">New York, EEUU</p>
+                                        <p className="text-gray-300">23/2 nochikuppam light house Mylapore </p>
+                                        <p className="text-gray-300">Chennai 600004</p>
                                     </div>
                                 </li>
                                 <li className="flex">
@@ -56,8 +54,8 @@ function Contact() {
                                     <div className="ml-4 mb-4">
                                         <h3 className="mb-2 text-lg font-medium leading-6 text-white">Contact
                                         </h3>
-                                        <p className="text-gray-300">Mobile: +1 (123) 456-7890</p>
-                                        <p className="text-gray-300">Mail: tailnext@gmail.com</p>
+                                        <p className="text-gray-300">Mobile: +91 6384571852 , +91 7448381781</p>
+                                        <p className="text-gray-300">Mail: sriksmelevator32@gmail.com</p>
                                     </div>
                                 </li>
                                 <li className="flex">
@@ -79,7 +77,7 @@ function Contact() {
                             </ul>
                         </div>
                         <div className="card h-fit max-w-6xl p-5 md:p-12 bg-gray-900" id="form">
-                            <h2 className="mb-4 text-2xl font-bold text-white">Ready to Get Started?</h2>
+                            <h2 className="mb-4 text-2xl font-bold text-white">Any questions?</h2>
                             <form id="contactForm">
                                 <div className="mb-6">
                                     <div className="mx-0 mb-1 sm:mb-4">
